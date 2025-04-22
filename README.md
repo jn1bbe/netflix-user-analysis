@@ -38,10 +38,9 @@ This project analyzes behavioral trends from a Netflix user dataset, focusing on
 
 ## 📓 View the Notebook
 
-You can view the full notebook (with all visuals rendered) using nbviewer:
+You can view the analysis notebook directly on GitHub:
 
-👉 [Netflix_Analysis.ipynb on nbviewer](https://nbviewer.org/github/jn1bbe/netflix-user-analysis/blob/main/notebooks/Netflix_Analysis.ipynb)
-
+👉 [Netflix_Analysis.ipynb on GitHub](https://github.com/jn1bbe/netflix-user-analysis/blob/main/notebooks/Netflix_Analysis.ipynb)
 ---
 
 ## 🖼️ Preview
