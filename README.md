@@ -49,3 +49,9 @@ Using Python, Pandas, Matplotlib, and Seaborn, the notebook walks through:
 ---
 
 > 🚀 *Explore the full notebook in the `/notebooks` folder to see the analysis in action!*
+
+## 📓 View the Notebook
+
+You can view the full notebook (with all visuals rendered) using nbviewer:
+
+👉 [Netflix_Analysis.ipynb on nbviewer](https://nbviewer.org/github/jn1bbe/netflix-user-analysis/blob/main/notebooks/Netflix_Analysis.ipynb)
